@@ -5,7 +5,7 @@
 
 ## Overview
 
-An AI application that recreates a company's annual report page by page using raw financial data and AI-generated commentary.
+An application that recreates a company's annual report page by page from raw financial data. The report text comes from fixed rules applied to the run's own results.
 
 ## Tech Stack
 
